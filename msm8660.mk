@@ -43,7 +43,8 @@ PRODUCT_PACKAGES += \
     audio_policy.conf \
     audio.primary.msm8660 \
     libaudioutils \
-    libdashplayer
+    libdashplayer \
+    libaudio-resampler
 
 # GPS
 PRODUCT_COPY_FILES += \
