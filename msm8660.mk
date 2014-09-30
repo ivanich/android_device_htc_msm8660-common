@@ -99,6 +99,10 @@ PRODUCT_PACKAGES += \
     make_ext4fs \
     setup_fs
 
+# Net
+PRODUCT_PACKAGES += \
+    libnetcmdiface
+
 # Media configuration
 PRODUCT_COPY_FILES += \
     device/htc/msm8660-common/configs/media_codecs.xml:system/etc/media_codecs.xml \
