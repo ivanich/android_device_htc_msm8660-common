@@ -121,7 +121,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     com.qc.hardware=true \
     debug.composition.type=c2d \
     debug.egl.hw=1 \
-    debug.mdpcomp.maxlayer=3 \
     debug.mdpcomp.logs=0 \
     debug.sf.hw=1 \
     dev.pm.dyn_samplingrate=1 \
